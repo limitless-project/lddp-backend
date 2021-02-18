@@ -1,0 +1,15 @@
+{
+  "name": "ldtp",
+  "version": "0.1.0",
+  "description": "Decentralized, Fast, Immutable, and Elegant data transfer protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Technologies",
+  "license": "CPAL-1.0",
+  "dependencies": {
+    "ipfs-core": "^0.5.2",
+    "orbit-db": "^0.26.0"
+  }
+}
